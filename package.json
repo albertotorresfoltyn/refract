@@ -1,0 +1,21 @@
+{
+  "name": "refract",
+  "version": "0.0.1",
+  "description": "React clone in 160 lines of JavaScript.",
+  "main": "refract.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertotorresfoltyn/refract"
+  },
+  "keywords": [
+    "react",
+    "clone"
+  ],
+  "author": "Alberto Torres",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/albertotorresfoltyn/refract/issues"
+  },
+  "homepage": "https://github.com/albertotorresfoltyn/refract#readme"
+}
